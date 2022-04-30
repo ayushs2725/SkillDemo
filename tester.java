@@ -6,6 +6,6 @@ public class tester
     @Test    
     public void fail()
     {
-        assertEquals(3, test.Multiply(3, 3));
+        assertEquals(9, test.Multiply(3, 3));
     }
 }
